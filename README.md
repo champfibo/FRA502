@@ -9,12 +9,13 @@ https://drive.google.com/file/d/1XCsM1OT2OUW6FlU47BZirr7GMhMldnCN/view?usp=shari
 # คู่มือการใช้งาน
 
 ~~~~~~~~~~~~~~~~
-1.เปิดเทอร์มินอล เเล้วพิมพ์ roscore
-2.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ source catkin_ws/devel/setup.bash
-3.ในเทอร์มินอลข้อ 2 พิมพ์roslaunch robot car_spawn.launch
-4.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ roslaunch robot car_navigation.launch
-5.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ roslaunch robot goal.launch
-6.ถ้าติดปัญหารันไฟล์ python ให้เข้าไปที่ directory ของไฟล์ goal.py เเล้วพิมพ์ chmod +x goal.py
+1.โหลด Folder robot
+2.เปิดเทอร์มินอล เเล้วพิมพ์ roscore
+3.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ source catkin_ws/devel/setup.bash
+4.ในเทอร์มินอลข้อ 2 พิมพ์roslaunch robot car_spawn.launch
+5.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ roslaunch robot car_navigation.launch
+6.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ roslaunch robot goal.launch
+7.ถ้าติดปัญหารันไฟล์ python ให้เข้าไปที่ directory ของไฟล์ goal.py เเล้วพิมพ์ chmod +x goal.py
 
 ~~~~~~~~~~~~~~~~
 
