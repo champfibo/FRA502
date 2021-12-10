@@ -12,7 +12,8 @@ https://drive.google.com/file/d/1XCsM1OT2OUW6FlU47BZirr7GMhMldnCN/view?usp=shari
 3.ในเทอร์มินอลข้อ 2 พิมพ์ roslaunch robot car_spawn.launch
 4.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ roslaunch robot car_navigation.launch
 5.เปิดเทอร์มินอลอันใหม่ขึ้นมาเล้วพิมพ์ roslaunch robot goal.launch
-6.ถ้าติดปัญหารันไฟล์ python ให้เข้าไปที่ directory ของไฟล์ goal.py เเล้วพิมพ์ chmod +x goal.py
+6.ถ้าติดปัญหารันไฟล์ python ให้เข้าไปที่ directory ของไฟล์ goal.py เเล้วพิมพ์ chmod +x goal.py![145529558-6d311113-1603-4ad5-b56d-e9f86492c6f7](https://user-images.githubusercontent.com/78725909/145550551-46432eff-71e4-4b46-97de-90f0293017b1.png)
+
 7.การสั่งงานด้วยเสียง 
 ![image](https://user-images.githubusercontent.com/78725909/145529558-6d311113-1603-4ad5-b56d-e9f86492c6f7.png)
 ขึ้นข้อความนี้คือให้พูดอะไรก็ได้เพื่อตรวจเสียง
@@ -27,4 +28,6 @@ https://drive.google.com/file/d/1XCsM1OT2OUW6FlU47BZirr7GMhMldnCN/view?usp=shari
 2.navigation ไม่เเม่นยำมากบางที่ยังมีการชนวัตถุเเละทำงานช้า
 3.ตอนใช้คำสั่งเสียงบางทีต้องพูดย้ำหลายครั้ง
 
+# สรุปสิ่งที่ได้เรียนรู้
+ตอนเเรกที่เรียนวิดีโออาจารย์ผมก็ยังไม่เข้าใจว่าจะเอาไปทำโปรเจคยังไงครับเเต่พออาจารย์บอกให้ไปลองดู code turtlebot3(เเล้วผมก็ลองไปหาดูจาก github ในเน็ตเพิ่มด้วย) ก็ทำให้ผมเห็นเเนวในการทำกับการการเขียนcodeมากขึ้นคือรู้ว่าพวก launch file สร้างยังไงข้างในเขียนประมาณไหนเเล้วก็ได้รู้ว่าตอนทำ navigation บางที object น้อยเกินไป gmapping ก็มีผิดพลาดเเบบหุ่นวาป เเละสิ่งที่ทำให้ได้ความรู้มากสุดคือตอนทำทุกครั้งผมจะมีบั๊คทุกครั้งทำให้ได้ฝึกเเก้ปัญหาเช่นบางทีเอา error ไปวางในgoogleก็เจอวิธีเเก้
 
