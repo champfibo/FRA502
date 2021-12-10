@@ -16,9 +16,7 @@ https://drive.google.com/file/d/1XCsM1OT2OUW6FlU47BZirr7GMhMldnCN/view?usp=shari
 ขึ้นข้อความนี้คือให้พูดอะไรก็ได้เพื่อตรวจเสียง
 8.ต่อไปหุ่นจะเดินไปยังตำเเหน่งเริ่มต้นที่กำหนดไว้
 ![image](https://user-images.githubusercontent.com/78725909/145529914-52173a48-e5cf-485d-9e69-7c8c8bc561cc.png)
-
 9.เเล้วจะให้พูดว่าจะไปหยิบอะไร มีเนื้อ ปลา ถั่ว ผัก ![image](https://user-images.githubusercontent.com/78725909/145531645-8ff1ba9e-e832-48a7-8c78-b35e3c55895d.png)
-
 10.พอไปถึงหุ่นยนจะเดินกลับมาที่ตำเเหน่งเเรกอัติโนมัติ
 
 # ปัญหาที่พบเจอ
